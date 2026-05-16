@@ -190,7 +190,7 @@ Este módulo es utilizado por usuarios que buscan propiedades en renta.
 # 📂 Estructura del proyecto
 
 ```bash
-OnlineHouseRentingSystem/
+PlataformaWebRentaViviendas/
 │
 ├── admin/                    # Panel administrativo
 ├── owner/                    # Módulo propietario
@@ -225,7 +225,7 @@ OnlineHouseRentingSystem/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/OnlineHouseRentingSystem.git
+git clone https://github.com/isairey/PlataformaWebRentaViviendas.git
 ```
 
 ---
@@ -235,7 +235,7 @@ git clone https://github.com/isairey/OnlineHouseRentingSystem.git
 Copiar proyecto hacia:
 
 ```bash
-xampp/htdocs/OnlineHouseRentingSystem/
+xampp/htdocs/PlataformaWebRentaViviendas/
 ```
 
 ---
